@@ -10,6 +10,8 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asim-Ali515&label=Profile%20views&color=0e75b6&style=flat" alt="ibtasam-ahmad" /> </p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/asimtassaduq/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
